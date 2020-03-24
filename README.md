@@ -1,2 +1,6 @@
-# platzi_github
-Uso de GitHub con base en el curso de Platzi
+##Hyperblog
+[curso de Git y Github](https://platzi.com)
+>El mejor curso de Git y GitHub online 
+>Freddy Vega
+
+**Forma 
